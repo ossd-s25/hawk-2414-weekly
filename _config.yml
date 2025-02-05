@@ -58,6 +58,7 @@ url: "https://ossd-s25.github.io/hawk-2414-weekly"
 # user name for GitHub.
 
 baseurl: "/hawk-2414-weekly"
+url: "https://ossd-s25.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!

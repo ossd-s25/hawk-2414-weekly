@@ -11,7 +11,10 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
       </div>
-      <a href="{{ post.url | relative_url }}" class="read-more">Read More</a>
+        {% if post.excerpt != post.content %}
+          <a href="{{ post.url | relative_url }}" class="read-more">Read More</a>
+        {% endif %}
+
     </article>
   {% endfor %}
 </div>

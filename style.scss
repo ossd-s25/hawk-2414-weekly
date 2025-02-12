@@ -21,6 +21,13 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+
+    /* Background image setup */
+    background-image: url('{{ site.baseurl }}/images/quill_ink.png'), 
+                      url('{{ site.baseurl }}/images/quill_ink.png'); /* Add the same image on both sides */
+    background-repeat: no-repeat, no-repeat;
+    background-position: left top, right top; /* Position images on the left and right */
+    background-size: 200px auto; /* Adjust the width of the borders */
 }
 
 .container {

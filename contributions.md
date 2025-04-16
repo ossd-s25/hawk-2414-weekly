@@ -27,5 +27,5 @@ Replace the first row with your own contribution.
 | Mar 16   | [link to my contribution](https://github.com/oppia/oppia/issues/22153)    | [course website](https://github.com/oppia/oppia)    |   Feature that resolved missing contact information for voiceover contributions   |
 | Apr 7   | [link to my contribution](https://github.com/oppia/oppia/issues/22398)    | [course website](https://github.com/oppia/oppia)    |   Feature that creates an admin panel to automatically submit answers to explorations, generating data to easily test statistic-related jobs.  |
 | Apr 7   | [link to my contribution](https://github.com/oppia/oppia/issues/22399)    | [course website](https://github.com/oppia/oppia)    |   Add a feature to send regular batch emails to exploration creators with stats and improvement suggestions.  |
-| Apr 16   | [link to my contribution](https://github.com/oppia/oppia/issues/22472)    | [course website](https://github.com/oppia/oppia)    |   Add a feature to send regular batch emails to exploration creators with stats and improvement suggestions.  |
+| Apr 16   | [link to my contribution](https://github.com/oppia/oppia/issues/22472)    | [course website](https://github.com/oppia/oppia)    |   Add a feature to include pre-editing notifications for collaborative explorations  |
 
